@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+}
+
+#vuMeter {
+  //border: 1px solid #ffffff;
+}
+
+#vuMeter2 {
+  //border: 1px solid #ffffff;
+}
